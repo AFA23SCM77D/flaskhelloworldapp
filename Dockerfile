@@ -18,3 +18,4 @@ COPY . /app
 
 
 ENTRYPOINT ["python", "app.py"]
+

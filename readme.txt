@@ -89,7 +89,7 @@ Step 11 : Verify Your Automatic Builds
         3.git commit -m “update html”
         4.git push 
       d. Open your cloud build
-      e. Refresh the same url. You will see updated your builds something like this:
+      e. Refresh the same url. You will see updated your builds something like this:.
  
 
 
